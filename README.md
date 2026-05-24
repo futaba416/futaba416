@@ -4,7 +4,8 @@
   </a>
 </div>
 
-- 🌱 I’m currently learning application development, UI/UX design, and software fundamentals.
-- 🧑‍💻 I have experience building web applications through team hackathons.
-- 🎨 I’m interested in creating intuitive and easy-to-use interfaces.
-- 📝 Portfolio: [Portfolio](https://near-archeology-be9.notion.site/Portfolio-a333d5e78a5c82619a48810284f97739)
+- 🌱 Web / アプリケーション開発、UI/UXデザイン、ソフトウェアの基礎を学習中です。
+- 🧑‍💻 チームハッカソンでWebアプリケーション制作を経験しました。
+- 🎨 デザインと、心地よく使える画面づくりに関心があります。
+- 📝 ポートフォリオ: [Portfolio](https://near-archeology-be9.notion.site/Portfolio-a333d5e78a5c82619a48810284f97739)
+
