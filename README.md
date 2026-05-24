@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+## 🌱 Learning / Tools
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,figma,python,django,flask,mysql,tailwind,git,github,vscode" />
+
 <!--
 **futaba416/futaba416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
