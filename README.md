@@ -7,5 +7,5 @@
 - 🌱 Web / アプリケーション開発、UI/UXデザイン、ソフトウェアの基礎を学習中です。
 - 🧑‍💻 チームハッカソンでWebアプリケーション制作を経験しました。
 - 🎨 デザインと、心地よく使える画面づくりに関心があります。
-- 📝 ポートフォリオ: [Portfolio](https://near-archeology-be9.notion.site/Portfolio-a333d5e78a5c82619a48810284f97739)
+- 📝 ポートフォリオ: [Portfolio](https://futaba416.github.io/portfolio/)
 
